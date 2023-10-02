@@ -1,0 +1,1 @@
+# CodeclauseInternship_QR-Barcode-Scanner
